@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🎓 **First-year Software Engineering student** at the **University of Ottawa**
 - 🚀 Currently building an **iOS Anime Schedule Tracker app** using **Swift**
-- 👗 Also working with a team on **Perfect Fit**, a personalized fashion app to help users visualize clothing on their avatars
-- 🌱 Always learning new things, whether it’s **Swift**, **JavaScript**, or even **Japanese** 🇯🇵
+- 👗 Worked with a team on **Perfect Fit**, a personalized fashion app to help users visualize clothing on their avatars
+- 🌱 Always learning new things, whether it’s **Swift**, **React**, or even **Japanese** 🇯🇵
 - 🔍 Seeking **co-op opportunities for Summer 2025** in Software Engineering
 - 💻 Passionate about creating innovative solutions with experience in **Java**, **Python**, **Swift**, and **Web Development**
 - 🤝 Open to collaborating on cool tech projects, especially in **web and mobile app development**
