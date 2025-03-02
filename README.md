@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h2>Hey, I'm Taha Rashid 👋</h2>
 
 - 🎓 **First-year Software Engineering student** at the **University of Ottawa**
-- 🏎️ On the Software Engineering team at the **uOttawa Supermileage Competitive Team**
-- 🚀 Currently building an **iOS Anime Schedule Tracker app** using **Swift**
-- 👗 Worked with a team on **Perfect Fit**, a personalized fashion app to help users visualize clothing on their avatars
+- 🏎️ On the Software Engineering team at the **[uOttawa Supermileage Competitive Team](https://github.com/UOSupermileage)**
+- 🚀 Currently building an **[iOS Anime Schedule Tracker app](https://github.com/TheBossT910/AnimeTracker)** using **Swift**
+- 👗 Worked with a team on **[Perfect Fit](https://github.com/seg-perfect-fit/perfect-fit-site)**, a personalized fashion app to help users visualize clothing on their avatars
 - 🌱 Always learning new things, whether it’s **Swift**, **React**, or even **Japanese** 🇯🇵
 - 🔍 Seeking **co-op opportunities for Summer 2025** in Software Engineering
 - 💻 Passionate about creating innovative solutions with experience in **Java**, **Python**, **Swift**, and **Web Development**
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📫 **Reach me at**: taharashid710192@gmail.com
 
-**See my Resume**: [Resume 2025-03-02 (Personal Email).pdf](https://github.com/user-attachments/files/19043872/Resume.2025-03-02.Personal.Email.pdf)
+**See my Resume**: [Resume 2025-03-02](https://github.com/user-attachments/files/19043872/Resume.2025-03-02.Personal.Email.pdf)
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
