@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h2>Hey, I'm Taha Rashid 👋</h2>
 
 - 🎓 **First-year Software Engineering student** at the **University of Ottawa**
+- 🏎️ On the Software Engineering team at the **uOttawa Supermileage Competitive Team**
 - 🚀 Currently building an **iOS Anime Schedule Tracker app** using **Swift**
 - 👗 Worked with a team on **Perfect Fit**, a personalized fashion app to help users visualize clothing on their avatars
 - 🌱 Always learning new things, whether it’s **Swift**, **React**, or even **Japanese** 🇯🇵
