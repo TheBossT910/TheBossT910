@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 📫 **Reach me at**: taharashid710192@gmail.com
 
+**See my Resume**: [Resume 2025-03-02 (Personal Email).pdf](https://github.com/user-attachments/files/19043872/Resume.2025-03-02.Personal.Email.pdf)
+
 <h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/taha-rashid192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Rashid LinkedIn" height="30" width="40" /></a>
