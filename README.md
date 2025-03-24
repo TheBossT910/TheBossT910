@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 - 🤝 Open to collaborating on cool tech projects, especially in **web and mobile app development**
 - ⚡ **Fun fact**: I led my high school coding team to multiple first-place victories in competitive programming!
 
-🔗 **Check out my projects on GitHub ⬇**
+**Check out my personal website**: [taharashid.com](https://taharashid.com/)
+
+**See my Resume**: [Resume 2025-03-16](https://drive.google.com/file/d/1tZkWSnNEMfZ1OqWFXSloIcy4nBels1_K/view?usp=sharing)
 
 📫 **Reach me at**: taharashid710192@gmail.com
 
-**See my Resume**: [Resume 2025-03-02](https://github.com/user-attachments/files/19043872/Resume.2025-03-02.Personal.Email.pdf)
+🔗 **Check out my projects on GitHub ⬇**
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
