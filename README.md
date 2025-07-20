@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 
 <h2>Hey, I'm Taha Rashid 👋</h2>
 
-- 🎓 **First-year Software Engineering student** at the **University of Ottawa**
-- 🏎️ On the Software Engineering team at the **[uOttawa Supermileage Competitive Team](https://github.com/UOSupermileage)**
-- 🚀 Currently building an **[iOS Anime Schedule Tracker app](https://github.com/TheBossT910/AnimeTracker)** using **Swift**
-- 👗 Worked with a team on **[Perfect Fit](https://github.com/seg-perfect-fit/perfect-fit-site)**, a personalized fashion app to help users visualize clothing on their avatars
-- 🌱 Always learning new things, whether it’s **Swift**, **React**, or even **Japanese** 🇯🇵
-- 🔍 Seeking **co-op opportunities for Summer 2025** in Software Engineering
-- 💻 Passionate about creating innovative solutions with experience in **Java**, **Python**, **Swift**, and **Web Development**
+- 🎓 **Second-year Software Engineering student** at the **University of Ottawa**
+- 💻 On the Logistics Team at **[uOttawa Software Engineering Student Association (SESA)](https://www.uottawasesa.ca/)** 
+- 🚀 Currently building **[SavePoint, a game tracker and management app, made for consumers and businesses](https://github.com/TheBossT910/savepoint-web)** using **Nuxt**, **Express.js**, and **Tailwind CSS**
+- 📺 Previously worked on **[Koyomi Anime Tracker](https://github.com/TheBossT910/AnimeTracker)**, a simple macOS/iOS app to help you track the anime you're watching or planning to watch.
+- 🌱 Always learning new things, whether it’s **.NET**, **Nuxt/Vue 3**, or even **Japanese** 🇯🇵
+- 🔍 Seeking **co-op opportunities for Winter 2026** in Software Engineering
+- 💻 Passionate about creating innovative solutions with experience in **Web Development**, **Swift**, **Python**, and **Java**!
 - 🤝 Open to collaborating on cool tech projects, especially in **web and mobile app development**
 - ⚡ **Fun fact**: I led my high school coding team to multiple first-place victories in competitive programming!
 
 **Check out my personal website**: [taharashid.com](https://taharashid.com/)
 
-**See my Resume**: [Resume 2025-03-16](https://drive.google.com/file/d/1tZkWSnNEMfZ1OqWFXSloIcy4nBels1_K/view?usp=sharing)
+**See my Resume**: [Resume 2025-07-20]([https://drive.google.com/file/d/1tZkWSnNEMfZ1OqWFXSloIcy4nBels1_K/view?usp=sharing](https://drive.google.com/file/d/1FCsYfRcowe-pSCqB76E0Ow05BtVqel43/view?usp=sharing))
 
 📫 **Reach me at**: taharashid710192@gmail.com
 
