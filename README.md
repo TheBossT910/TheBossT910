@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **Check out my personal website**: [taharashid.com](https://taharashid.com/)
 
-**See my Resume**: [Resume 2025-07-20]([https://drive.google.com/file/d/1tZkWSnNEMfZ1OqWFXSloIcy4nBels1_K/view?usp=sharing](https://drive.google.com/file/d/1FCsYfRcowe-pSCqB76E0Ow05BtVqel43/view?usp=sharing))
+**See my Resume**: [Resume 2025-07-20](https://drive.google.com/file/d/1FCsYfRcowe-pSCqB76E0Ow05BtVqel43/view?usp=sharing)
 
 📫 **Reach me at**: taharashid710192@gmail.com
 
