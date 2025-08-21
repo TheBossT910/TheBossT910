@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 **Second-year Software Engineering student** at the **University of Ottawa**
 - 💻 On the Logistics Team at **[uOttawa Software Engineering Student Association (SESA)](https://www.uottawasesa.ca/)** 
-- 🚀 Currently building **[SavePoint, a game tracker and management app, made for consumers and businesses](https://github.com/TheBossT910/savepoint-web)** using **Nuxt**, **Express.js**, and **Tailwind CSS**
+- 🚀 Currently building **[SavePoint, a game tracker and management app, made for consumers and businesses](https://github.com/TheBossT910/savepoint-web)** using **Nuxt**, **ASP.NET Core**, **SQL DB**, and **Tailwind CSS**
 - 📺 Previously worked on **[Koyomi Anime Tracker](https://github.com/TheBossT910/AnimeTracker)**, a simple macOS/iOS app to help you track the anime you're watching or planning to watch.
 - 🌱 Always learning new things, whether it’s **.NET**, **Nuxt/Vue 3**, or even **Japanese** 🇯🇵
 - 🔍 Seeking **co-op opportunities for Winter 2026** in Software Engineering
