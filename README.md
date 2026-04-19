@@ -3,7 +3,7 @@
 - 🎓 **Second-year Software Engineering student** at the **University of Ottawa**
 - 🚀 Currently building **[Persona 3 DS, a Nintendo DS demake of Persona 3](https://github.com/TheBossT910/persona-3-ds)** using the devkitpro toolchain with **C++** code, **Python** scripts, and simple **3D modelling** for environments
 - 📺 Previously worked on **[SavePoint, a game tracker and management app, made for consumers and businesses](https://github.com/TheBossT910/savepoint-web)** using **Nuxt**, **ASP.NET Core**, **MS SQL DB**, and **Tailwind CSS**
-- I'm especially interested in embedded systems for automotive, silicon, and XR. Think firmware, drivers, motor controllers, and low-level software like compatibility layers (think Rosetta, Proton) that power real hardware at scale. The kind of work that makes ARM silicon and VR headsets actually tick. 
+- I'm especially interested in embedded systems for automotive, silicon, and XR. Think firmware, drivers, motor controllers, and low-level software like compatibility layers (think Rosetta, Proton) that enables cool tech. 
 
 **Check out my personal website**: [taharashid.com](https://taharashid.com/)
 
