@@ -11,8 +11,6 @@
 - ❗️ **Interests:** Embedded systems and firmware for silicon, automotive, and XR. Think low-level software like compatibility layers (Rosetta, Proton, FEX) that enables cool tech!
 - 🔍 **Actively Seeking:** Co-op opportunities for **Fall 2026** (4-12 months) in Software Engineering (specifically embedded!)
 
-<br>
-
 <h3 align="left">Links & Socials</h3>
 
 <p align="left">
@@ -22,7 +20,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/TheBossT910" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/taha-rashid192/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/thebosst710192/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
