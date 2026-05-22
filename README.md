@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hey, I'm Taha Rashid 👋</h2>
-  <h4>2nd Year SWE Student @ uOttawa, Canada</h4>
+  <h4>3rd Year SWE Student @ uOttawa, Canada</h4>
 </div>
 
 ---
