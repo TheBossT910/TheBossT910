@@ -5,7 +5,7 @@
 
 ---
 
-- 🚀 **Currently building:** [Persona 3 Dual](https://github.com/TheBossT910/persona-3-ds), a Nintendo DS demake of Persona 3
+- 🚀 **Currently building:** [Persona 3 Dual](https://github.com/p3d-project/persona-3-dual), a Nintendo DS demake of Persona 3
 - 📺 **Previously worked on:** [SavePoint](https://github.com/TheBossT910/savepoint-web), a game tracker and management app made for consumers and businesses
 - 💼 **Previously interned @** Ciena as an embedded software engineer
 - ❗️ **Interests:** Embedded systems and firmware for silicon, automotive, and XR. Think low-level software like compatibility layers (Rosetta, Proton, FEX) that enables cool tech!
