@@ -9,7 +9,7 @@
 - 📺 **Previously worked on:** [SavePoint](https://github.com/TheBossT910/savepoint-web), a game tracker and management app made for consumers and businesses
 - 💼 **Previously interned @** Ciena as an embedded software engineer
 - ❗️ **Interests:** Embedded systems and firmware for silicon, automotive, and XR. Think low-level software like compatibility layers (Rosetta, Proton, FEX) that enables cool tech!
-- 🔍 **Actively Seeking:** Co-op opportunities for **Fall 2026** (4-12 months) in Software Engineering (specifically embedded!)
+- 🔍 **Actively Seeking:** Co-op opportunities for **Summer 2028** (4 months) in Software Engineering (specifically embedded!)
 
 <h3 align="left">Links & Socials</h3>
 
